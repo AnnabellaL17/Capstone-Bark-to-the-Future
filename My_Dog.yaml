@@ -1,0 +1,17 @@
+# My_Dog.yaml
+
+# Parameters
+#c: 1  # Number of classes
+nc: 2  # Indu's update
+#names: ['My Dog']  # Class names
+names: ['My Dog', 'Not My Dog'] #Indu's update
+
+# Paths for training and validation datasets
+train: indu/images/train/
+val: indu/images/val/
+
+# train: /Users/isjha/Documents/MScA/Capstone II/class-2/yolov5/indu/images/train/
+# val: /Users/isjha/Documents/MScA/Capstone II/class-2/yolov5/indu/images/val/
+
+# Number of channels, for RGB images it's 3
+channels: 3
